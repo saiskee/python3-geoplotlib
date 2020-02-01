@@ -1,3 +1,5 @@
+Now Available in Python3!
+
 geoplotlib is a python toolbox for visualizing geographical data and making maps
 
 ```python
